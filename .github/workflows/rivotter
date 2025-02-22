@@ -1,1 +1,7 @@
-print ("Hello my name is an eccentric lunatic but I go by many different names")
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html
